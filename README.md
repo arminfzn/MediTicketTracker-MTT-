@@ -1,6 +1,9 @@
 > [!WARNING]
 > macOS not natively supported. Use VS Code with Python and clone this repository. May require tinkering.
 
+> [!IMPORTANT]
+> For Issues, Bugs and Improvements open a ticket in [Issues](https://github.com/flashedk/MediTicketTracker-MTT-/issues). I'm not part of "Ernste/Motto Macker" anymore, therefor not aware of anything posted there regarding this Script.
+
 # MediTicketTracker-MTT
 
 A tool to track the used and unused vouchers
